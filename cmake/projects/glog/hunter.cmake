@@ -15,9 +15,9 @@ hunter_add_version(
     VERSION
     "0.3.5-p3"
     URL
-    "https://github.com/edomora97/glog/archive/v0.3.4-p3.tar.gz"
+    "https://github.com/edomora97/glog/archive/v0.3.5-p3.tar.gz"
     SHA1
-    b895d2fc2e90a6ab29cef2155799cffa494449a4
+    a925bd81f0b9f76d3fa192a9bffbc5ebfffaa43f
 )
 
 hunter_add_version(
