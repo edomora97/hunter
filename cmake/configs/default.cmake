@@ -31,8 +31,8 @@ hunter_default_version(Assimp VERSION 3.2-p2)
 hunter_default_version(Async++ VERSION 0.0.3-hunter)
 hunter_default_version(Avahi VERSION 0.6.31)
 hunter_default_version(BZip2 VERSION 1.0.6-p3)
-hunter_default_version(Beast VERSION 1.0.0-b84-hunter-0)
 hunter_default_version(Backward VERSION 1.3)
+hunter_default_version(Beast VERSION 1.0.0-b84-hunter-0)
 
 if(MSVC)
   # https://github.com/boostorg/build/issues/299
